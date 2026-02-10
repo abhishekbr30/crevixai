@@ -1,4 +1,4 @@
-# Agency.ai - Modern Digital Agency Website
+# Crevix.ai - Modern Digital Agency Website
 
 A stunning, modern digital agency website built with React, Vite, and Tailwind CSS. Features a premium design aesthetic with smooth animations, responsive layouts, and an exceptional user experience.
 
@@ -23,16 +23,19 @@ A stunning, modern digital agency website built with React, Vite, and Tailwind C
 ### Installation
 
 1. **Navigate to the project directory:**
+
    ```bash
    cd agency-website
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server:**
+
    ```bash
    npm run dev
    ```
@@ -81,16 +84,19 @@ agency-website/
 ## 🎨 Design Features
 
 ### Color Palette
+
 - **Primary Blue**: `#1a2b63` - Deep, professional blue
 - **Accent Indigo**: `#4158D0` - Vibrant gradient color
 - **Light Background**: `#f8f9fc` - Soft, clean background
 - **Accent Blue**: `#0066ff` - Bright accent color
 
 ### Typography
+
 - **Display Font**: Outfit - Modern, geometric sans-serif for headings
 - **Body Font**: DM Sans - Clean, readable sans-serif for body text
 
 ### Key Sections
+
 1. **Navbar** - Sticky header with smooth scroll navigation
 2. **Hero** - Eye-catching headline with gradient text
 3. **Trusted By** - Client logos with hover effects
@@ -103,7 +109,9 @@ agency-website/
 ## 🔧 Customization
 
 ### Changing Colors
+
 Edit `tailwind.config.js`:
+
 ```javascript
 colors: {
   'agency-blue': '#1a2b63',
@@ -113,9 +121,11 @@ colors: {
 ```
 
 ### Modifying Content
+
 Each component file contains its own content. Simply edit the relevant component in `src/components/` to update text, images, or structure.
 
 ### Adding New Sections
+
 1. Create a new component in `src/components/`
 2. Import and add it to `src/App.jsx`
 3. Add navigation link if needed in `Navbar.jsx`
@@ -154,6 +164,7 @@ Feel free to fork, modify, and use this template for your own projects!
 ## 🌟 Credits
 
 Built with:
+
 - React 18
 - Vite 5
 - Tailwind CSS 3
