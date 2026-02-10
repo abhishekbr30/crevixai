@@ -39,7 +39,7 @@ const Navbar = () => {
               className="text-3xl font-display font-bold relative z-10"
             >
               <span className="bg-gradient-to-r from-agency-blue via-agency-indigo to-agency-accent bg-clip-text text-transparent hover:scale-105 transition-transform inline-block">
-                crevix
+                Crevix
               </span>
               <span className="text-agency-accent">.ai</span>
             </a>

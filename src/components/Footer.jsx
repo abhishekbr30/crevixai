@@ -24,7 +24,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="md:col-span-2">
             <h3 className="text-3xl font-display font-bold mb-4">
-              crevix<span className="text-agency-accent">.ai</span>
+              Crevix<span className="text-agency-accent">.ai</span>
             </h3>
             <p className="text-gray-300 mb-6 max-w-md leading-relaxed">
               We transform bold ideas into digital experiences that drive real
